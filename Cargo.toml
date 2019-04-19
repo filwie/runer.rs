@@ -1,0 +1,6 @@
+[package]
+name = "runer"
+version = "0.1.0"
+authors = ["Filip Wiechec <filip.wiechec@gmail.com>"]
+
+[dependencies]
